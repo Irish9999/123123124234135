@@ -1,0 +1,25 @@
+local args = {
+    [1] = {
+        [1] = 1
+    }
+}
+
+workspace:FindFirstChild("HUH WAIT WHY ROBLOX").__REMOTES:FindFirstChild("exchange gifts with the merchant"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = {
+        [1] = 2
+    }
+}
+
+workspace:FindFirstChild("HUH WAIT WHY ROBLOX").__REMOTES:FindFirstChild("exchange gifts with the merchant"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = {
+        [1] = 3
+    }
+}
+
+workspace:FindFirstChild("HUH WAIT WHY ROBLOX").__REMOTES:FindFirstChild("exchange gifts with the merchant"):InvokeServer(unpack(args))
